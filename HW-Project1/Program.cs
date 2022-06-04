@@ -43,9 +43,6 @@ namespace Homework_8
                 Console.WriteLine(student.Name);
             }
 
-            //QUESTION: How can I delete a student if the ID is random-generated?
-            //school.RemoveStudent(12345);
-
             foreach (var student in school.ListOfStudents)
             {
                 student.Speak();
