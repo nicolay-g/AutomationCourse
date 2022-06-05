@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Homework_8
 {
-    class Student
+    public class Student
     {
         private const int AdultAge = 18;
 

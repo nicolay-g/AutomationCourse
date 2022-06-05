@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Homework_8
 {
-    class School
+    public class School
     {
         public School(string name, string address)
         {
