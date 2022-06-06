@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json.Linq;
 
-namespace Homework_8
+namespace Homework_11
 {
     class Program
     {
@@ -42,6 +42,8 @@ namespace Homework_8
             {
                 Console.WriteLine(student.Name);
             }
+
+            school.RemoveGraduatingStudents();
 
             foreach (var student in school.ListOfStudents)
             {

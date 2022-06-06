@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
     <RootNamespace>HW_Project1</RootNamespace>
-    <StartupObject>Homework_8.Program</StartupObject>
+    <StartupObject>Homework_11.Program</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>
